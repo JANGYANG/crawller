@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/a007/study/crawller/myvenv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+
+    "python.venvFolders": [
+        "${workspaceFolder}/../myvenv",
+        "venv",
+    ],
+    "python.linting.pylintPath": "${workspaceFolder}/../myvenv/bin/pylint",
+    "python.envFile": "${workspaceFolder}/../myvenv",
+}
